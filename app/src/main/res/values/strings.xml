@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">App Organize</string>
+    <string name="menu">Menu</string>
+    <string name="receita">Receita</string>
+    <string name="despesa">Despesa</string>
+    <string name="data">Data  Ex.: 19/10/2022</string>
+    <string name="categoria">Categoria</string>
+    <string name="descricao">Descrição</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="senha">Senha</string>
+    <string name="email">Email</string>
+    <string name="nome">Nome</string>
+    <string name="entrar">Entrar</string>
+
+</resources>
